@@ -108,16 +108,16 @@ Conocimientos fundamentales de servicios AWS, gestión de identidades y permisos
 
 <p>
   <a href="https://github.com/lunagalarcio">
-    <img src="https://github.com/lunagalarcio?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/luna-alejandra-jaimes-galarcio-95a93b269">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail"/>
+  <a href="mailto:lunajaimesgala@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
-⋆˚✿˖° Siempre estoy abierta a aprender, colaborar en proyectos y explorar nuevas oportunidades en desarrollo de software y tecnología.🎀
+Siempre estoy abierta a aprender, colaborar en proyectos y explorar nuevas oportunidades en desarrollo de software y tecnología.
 
-⋆｡‧˚ʚ🍓ɞ˚‧｡⋆¡Gracias por visitar mi perfil! ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆
+⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ ¡Gracias por visitar mi perfil! ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆
