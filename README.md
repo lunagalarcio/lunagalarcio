@@ -1,4 +1,4 @@
-![Banner de Luna](./assets%20%20/pink.jpeg)
+<img src="./assets%20%20/pink.jpeg" width="100%" alt="Banner pixel art">
 # ¡Hola! Soy Luna Galarcio 
 
 ### Estudiante de Ingeniería de Software | Full Stack Developer Junior
