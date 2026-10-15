@@ -1,4 +1,4 @@
-# ¡Hola! Soy Luna Galarcio 
+# ¡Hi! I am Luna Galarcio ★
 
 ### Estudiante de Ingeniería de Software | Full Stack Developer Junior
 
