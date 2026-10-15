@@ -57,7 +57,6 @@ Interés en modelos de clasificación, automatización de procesos de entrenamie
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="Amazon CloudWatch"/>
 </p>
 
-Conocimientos fundamentales de servicios AWS, gestión de identidades y permisos, almacenamiento, monitoreo y conceptos básicos de Data Lakes.
 ---
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lunagalarcio&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/>
