@@ -12,6 +12,7 @@ Me apasiona construir soluciones de software que combinen desarrollo web, análi
 ---
 
 ## Tecnologías y herramientas
+<p>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunagalarcio&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados por Luna"/>
 </p>
 ### Desarrollo Full Stack
