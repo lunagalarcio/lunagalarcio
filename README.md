@@ -76,7 +76,7 @@ Disfruto aprender nuevas tecnologías, afrontar retos técnicos y desarrollar pr
   <a href="https://github.com/lunagalarcio">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/luna-alejandra-jaimes-galarcio-95a93b269">
+  <a href="www.linkedin.com/in/luna-galarcio-95a93b269">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:lunajaimesgala@gmail.com">
