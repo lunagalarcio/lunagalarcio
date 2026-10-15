@@ -1,4 +1,4 @@
-![Banner de Luna Alejandra Jaimes](./assets/pink.png)
+![Banner de Luna Alejandra Jaimes](./assets/pink.jpeg)
 # ¡Hola! Soy Luna Galarcio 
 
 ### Estudiante de Ingeniería de Software | Full Stack Developer Junior
@@ -13,7 +13,6 @@ Me apasiona construir soluciones de software que combinen desarrollo web, análi
 ---
 
 ## Tecnologías y herramientas
-
 ### Desarrollo Full Stack
 
 <p>
