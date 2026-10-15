@@ -1,4 +1,4 @@
-![Banner de Luna Alejandra Jaimes](./assets/github-banner.png)
+![Banner de Luna Alejandra Jaimes](./assets/pink.png)
 # ¡Hola! Soy Luna Galarcio 
 
 ### Estudiante de Ingeniería de Software | Full Stack Developer Junior
