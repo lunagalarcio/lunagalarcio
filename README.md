@@ -1,4 +1,4 @@
-<img src="./assets%20%20/pink.jpeg" width="100%" alt="Banner pixel art">
+<img src="./assets%20%20/Paisaje Pixel Art Nocturno Retro.png" width="100%" alt="Banner pixel art">
 # ¡Hola! Soy Luna Galarcio 
 
 ### Estudiante de Ingeniería de Software | Full Stack Developer Junior
