@@ -2,7 +2,11 @@
 
 ### Estudiante de Ingeniería de Software | Full Stack Developer Junior
 
-Me apasiona construir soluciones de software que combinen desarrollo web, análisis de datos e inteligencia artificial. Actualmente, exploro la intersección entre la ingeniería de software y la **biología computacional**, participando en proyectos de investigación relacionados con el modelamiento celular *in vitro*.
+Me apasiona construir soluciones de software que integren desarrollo web, análisis de datos e inteligencia artificial para generar un impacto real.
+
+Actualmente, formo parte de un semillero de investigación en mi universidad, donde participo en un proyecto de biología computacional enfocado en la aplicación de tecnologías emergentes para la resolución de desafíos en entornos científicos. Esta experiencia me ha permitido fortalecer mis habilidades en investigación, análisis de datos y desarrollo de soluciones tecnológicas interdisciplinarias.
+
+Disfruto aprender nuevas tecnologías, afrontar retos técnicos y desarrollar proyectos que conecten investigación, innovación y software.
 
 - **Intereses:** Desarrollo Full Stack, Machine Learning y aplicaciones móviles.
 - **Aprendiendo:** Arquitectura de software, servicios cloud de AWS y procesamiento de datos.
