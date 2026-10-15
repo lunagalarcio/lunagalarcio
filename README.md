@@ -12,6 +12,8 @@ Me apasiona construir soluciones de software que combinen desarrollo web, análi
 ---
 
 ## Tecnologías y herramientas
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunagalarcio&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados por Luna"/>
+</p>
 ### Desarrollo Full Stack
 
 <p>
@@ -87,7 +89,7 @@ Conocimientos fundamentales de servicios AWS, gestión de identidades y permisos
   </tr>
   <tr>
     <td colspan="2">
-      <h3>🤖 Pipeline de Machine Learning</h3>
+      <h3> Pipeline de Machine Learning</h3>
       <p>Proyecto orientado a automatizar procesos relacionados con el entrenamiento de modelos de Machine Learning.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -99,14 +101,9 @@ Conocimientos fundamentales de servicios AWS, gestión de identidades y permisos
 </table>
 
 ---
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunagalarcio&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados por Luna"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lunagalarcio&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/>
 </p>
-
 ---
 
 ## Conectemos
