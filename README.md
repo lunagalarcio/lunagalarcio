@@ -100,22 +100,6 @@ Conocimientos fundamentales de servicios AWS, gestión de identidades y permisos
 
 ---
 
-## Investigación en biología computacional
-
-Participo en un semillero de investigación donde aplico herramientas de programación y análisis de datos a problemas de biología computacional.
-
-**Áreas de interés:**
-- Análisis de datos científicos mediante Python.
-- Modelamiento celular *in vitro*.
-- Exploración de aplicaciones de Machine Learning en investigación biológica.
-- Integración de métodos computacionales y conocimiento científico.
-
----
-
-## Mis estadísticas de GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lunagalarcio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estadísticas de GitHub de Luna"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunagalarcio&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados por Luna"/>
 </p>
 
