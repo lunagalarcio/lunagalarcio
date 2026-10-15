@@ -1,4 +1,4 @@
-<img src="./assets%20%20/Paisaje Pixel Art Nocturno Retro.png" width="100%" alt="Banner pixel art">
+<img src="https://raw.githubusercontent.com/lunagalarcio/lunagalarcio/main/assets/Paisaje%20Pixel%20Art%20Nocturno%20Retro.png" width="100%" alt="Paisaje pixel art nocturno en tonos verdes y fucsia">
 # ¡Hola! Soy Luna Galarcio 
 
 ### Estudiante de Ingeniería de Software | Full Stack Developer Junior
