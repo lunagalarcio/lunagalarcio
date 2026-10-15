@@ -58,54 +58,12 @@ Interés en modelos de clasificación, automatización de procesos de entrenamie
 </p>
 
 Conocimientos fundamentales de servicios AWS, gestión de identidades y permisos, almacenamiento, monitoreo y conceptos básicos de Data Lakes.
-
----
-
-## Proyectos destacados
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Sistema de gestión de proyectos</h3>
-      <p>Aplicación web Full Stack para administrar proyectos, empleados, clientes y recursos desde un sistema integrado.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-      </p>
-      <a href="https://github.com/lunagalarcio/gestion-proyectos">Ver repositorio</a>
-    </td>
-    <td width="50%">
-      <h3>MediFeast</h3>
-      <p>Aplicación móvil de recetas saludables orientada a personas con condiciones médicas específicas, con contenido adaptado a sus necesidades alimentarias.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-      </p>
-      <a href="https://github.com/lunagalarcio/medifeast">Ver repositorio</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3> Pipeline de Machine Learning</h3>
-      <p>Proyecto orientado a automatizar procesos relacionados con el entrenamiento de modelos de Machine Learning.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square" alt="Machine Learning"/>
-      </p>
-      <a href="ENLACE_DE_TU_REPOSITORIO_PIPELINE">Ver repositorio</a>
-    </td>
-  </tr>
-</table>
-
 ---
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lunagalarcio&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/>
 </p>
 
 ## Conectemos
-
 <p>
   <a href="https://github.com/lunagalarcio">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
